@@ -152,3 +152,4 @@ for trade in results:
     )
 
 print("Done.")
+#type "python project.py" in the terminal to run 
